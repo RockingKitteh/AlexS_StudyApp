@@ -1,0 +1,15 @@
+A string of text
+A true/false value
+Stores multiple values in a single variable
+A variable of any type contained within a class
+A item within an array
+The number of an item in the array
+A keyword that allows access only within the body of a class
+A keyword that allows access from any type
+A keyword that makes a variable belong to a class
+Declares a method that doesn't return a value
+If/else statements used to execute certain code blocks if a condition is true or false
+Increases integer value by one (++)
+Repeats a block of code as long as a specified condition is reached
+Executes a statement while a specified boolean evaluates true
+A multiway branch statement
